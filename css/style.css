@@ -1,3 +1,4 @@
+
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
@@ -8431,7 +8432,7 @@ h1, h2, h3, h4, h5,
         background: rgba(0, 0, 0, 0.4);
         border-radius: 5px; } }
   .ftco-navbar-light .navbar-brand {
-    color: #313030;
+    color: #b4b4b4;
     padding-left: 25px; }
     .ftco-navbar-light .navbar-brand span {
       color: #fff; }
@@ -8449,7 +8450,7 @@ h1, h2, h3, h4, h5,
     padding-left: 20px;
     padding-right: 20px;
     font-weight: 500;
-    color: #000000;
+     color: #b0b0b0;
     text-transform: uppercase;
     letter-spacing: 1px;
     opacity: 1 !important; }
